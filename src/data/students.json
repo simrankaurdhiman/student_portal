@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "dob": "2005-06-15",
+    "grade": "10"
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "dob": "2004-03-22",
+    "grade": "11"
+  },
+  {
+    "id": 3,
+    "firstName": "Sam",
+    "lastName": "Brown",
+    "dob": "2006-12-01",
+    "grade": "9"
+  },
+  {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "dob": "2005-09-17",
+    "grade": "10"
+  },
+  {
+    "id": 5,
+    "firstName": "Michael",
+    "lastName": "Davis",
+    "dob": "2004-01-30",
+    "grade": "11"
+  },
+  {
+    "firstName": "vishal",
+    "lastName": "Kumar",
+    "dob": "2002-02-21",
+    "grade": "50"
+  }
+]
